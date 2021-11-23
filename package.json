@@ -3,14 +3,14 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://vadimka07.github.io/goit-js-hw-09-gallery/",
+  "homepage": "https://vadimka07.github.io/goit-js-hw-11-gallery/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09-gallery/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11-gallery/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/vadimka07/goit-js-hw-11-gallery.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
